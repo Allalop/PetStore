@@ -1,0 +1,19 @@
+{
+  "id": "08060806",
+  "category": {
+    "id": 1,
+    "name": "Dog"
+  },
+  "name": "Boris",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+
+}
